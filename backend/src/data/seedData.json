@@ -1,0 +1,426 @@
+[
+  {
+    "eventName": "Bengaluru Tech Summit 2026 Gala & Awards",
+    "eventType": "Corporate",
+    "startDate": "2026-11-15T09:00:00.000Z",
+    "endDate": "2026-11-17T18:00:00.000Z",
+    "location": "Bengaluru, Karnataka",
+    "venue": "Bangalore International Exhibition Centre (BIEC)",
+    "category": "planner",
+    "details": {
+      "budget": 1200000,
+      "expectedAudience": "1,000 - 2,500",
+      "durationDays": 3,
+      "services": [
+        "Venue Booking",
+        "Event Management",
+        "Logistics",
+        "Marketing & Promotion",
+        "Guest Coordination",
+        "Technical Setup"
+      ],
+      "description": "Looking for an elite corporate event planning agency to oversee the flagship tech leadership summit. Needs complete logistics orchestration, VIP lounge hospitality, seamless AV streaming across 4 halls, and evening networking dinner management."
+    },
+    "additional": {
+      "setupTimeline": "3 days prior for main stage assembly & testing",
+      "preferredContact": "Email",
+      "contactInfo": "events@techsummitblr.org",
+      "notes": "Experience in handling C-level international dignitaries required. Sustainable decor preferred."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Nizam's Heritage Royal Wedding & Sangeet",
+    "eventType": "Wedding",
+    "startDate": "2026-12-04T16:00:00.000Z",
+    "endDate": "2026-12-06T23:30:00.000Z",
+    "location": "Hyderabad, Telangana",
+    "venue": "Taj Falaknuma Palace & Courtyard",
+    "category": "planner",
+    "details": {
+      "budget": 3500000,
+      "expectedAudience": "500 - 1,000",
+      "durationDays": 3,
+      "services": [
+        "Venue Booking",
+        "Event Management",
+        "Logistics",
+        "Guest Coordination",
+        "Technical Setup"
+      ],
+      "description": "Premium 3-day royal destination wedding requiring an experienced wedding designer. Responsible for theme curation (traditional Hyderabadi & Sufi night), vintage car logistics, floral decor, catering supervision, and bespoke guest concierges."
+    },
+    "additional": {
+      "setupTimeline": "Full production setup starts 48 hours in advance",
+      "preferredContact": "WhatsApp",
+      "contactInfo": "+91 98490 12345",
+      "notes": "Must have past portfolio in palace properties and heritage protocol coordination."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Amaravati Inter-University Youth & Cultural Fest",
+    "eventType": "Cultural",
+    "startDate": "2026-11-20T08:30:00.000Z",
+    "endDate": "2026-11-22T21:00:00.000Z",
+    "location": "Vijayawada, Andhra Pradesh",
+    "venue": "Indira Gandhi Stadium Campus Grounds",
+    "category": "planner",
+    "details": {
+      "budget": 650000,
+      "expectedAudience": "3,000 - 5,000",
+      "durationDays": 3,
+      "services": [
+        "Event Management",
+        "Logistics",
+        "Marketing & Promotion",
+        "Guest Coordination",
+        "Technical Setup"
+      ],
+      "description": "Annual state-level university youth festival featuring 24 competitive categories across drama, classical dance, literary debates, and battle of the bands. Looking for an event production team for stage scheduling, judge hospitality, and security perimeters."
+    },
+    "additional": {
+      "setupTimeline": "Stage setup starts 24 hours prior to inauguration",
+      "preferredContact": "Phone",
+      "contactInfo": "+91 86624 99887",
+      "notes": "Coordination with student volunteer committees is essential."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Pune Cloud & AI Innovators Conclave",
+    "eventType": "Corporate",
+    "startDate": "2026-10-28T09:00:00.000Z",
+    "endDate": "2026-10-29T18:00:00.000Z",
+    "location": "Pune, Maharashtra",
+    "venue": "JW Marriott Senapati Bapat Road",
+    "category": "planner",
+    "details": {
+      "budget": 850000,
+      "expectedAudience": "300 - 500",
+      "durationDays": 2,
+      "services": [
+        "Venue Booking",
+        "Event Management",
+        "Logistics",
+        "Technical Setup"
+      ],
+      "description": "Hands-on conference for AI infrastructure teams and cloud architects. Needs high-density dual band Wi-Fi setups, booth fabrications for 18 tech sponsors, interactive workshop roundtables, and coffee break catering arrangements."
+    },
+    "additional": {
+      "setupTimeline": "Overnight booth rigging on October 27th",
+      "preferredContact": "Email",
+      "contactInfo": "operations@cloudconclave.in",
+      "notes": "Low-latency video switching required for live AI demonstrations."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "South India Inter-Collegiate Premier League",
+    "eventType": "Sports",
+    "startDate": "2026-12-10T07:00:00.000Z",
+    "endDate": "2026-12-14T20:00:00.000Z",
+    "location": "Chennai, Tamil Nadu",
+    "venue": "Jawaharlal Nehru Stadium Complex",
+    "category": "planner",
+    "details": {
+      "budget": 950000,
+      "expectedAudience": "2,000 - 4,000",
+      "durationDays": 5,
+      "services": [
+        "Event Management",
+        "Logistics",
+        "Marketing & Promotion",
+        "Guest Coordination"
+      ],
+      "description": "Multi-discipline sports tournament encompassing basketball, football, and athletics across 32 regional universities. Need seasoned tournament directors to manage field schedules, referee logistics, medical ambulances, and medal ceremonies."
+    },
+    "additional": {
+      "setupTimeline": "Field prep 2 days before kickoff",
+      "preferredContact": "WhatsApp",
+      "contactInfo": "+91 94440 55667",
+      "notes": "On-site physiotherapy stations and live scoring LED screens needed."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Marine Lines Indie Waves Sunset Concert",
+    "eventType": "Music",
+    "startDate": "2026-11-28T17:30:00.000Z",
+    "endDate": "2026-11-28T22:30:00.000Z",
+    "location": "Mumbai, Maharashtra",
+    "venue": "Bayview Amphitheatre, Nariman Point",
+    "category": "performer",
+    "details": {
+      "performanceType": "Band",
+      "genre": "Indie Rock & Hindi Fusion",
+      "numberOfPerformers": 5,
+      "performanceDuration": "90 minutes",
+      "equipmentRequired": "Full drum kit, bass amp, 2 guitar amplifiers, stage wedges, in-ear monitors",
+      "stageRequirements": "Minimum 24ft x 16ft stage with dynamic backlighting",
+      "description": "Seeking an electrifying indie rock 5-piece band with original compositions and high-energy covers to headline our coastal open-air sunset music festival."
+    },
+    "additional": {
+      "setupTimeline": "Soundcheck at 3:00 PM sharp",
+      "preferredContact": "Email",
+      "contactInfo": "bookings@indiewavesfest.com",
+      "notes": "Band must share live performance recordings and tech rider with submission."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Dilli Haat Heritage Classical Dance Festival",
+    "eventType": "Cultural",
+    "startDate": "2026-11-08T18:00:00.000Z",
+    "endDate": "2026-11-08T21:30:00.000Z",
+    "location": "Delhi",
+    "venue": "Open Air Amphitheatre, Dilli Haat INA",
+    "category": "performer",
+    "details": {
+      "performanceType": "Dancer",
+      "genre": "Kathak & Contemporary Fusion",
+      "numberOfPerformers": 8,
+      "performanceDuration": "60 minutes",
+      "equipmentRequired": "Live Indian percussion (Tabla, Pakhawaj), flute audio mic setup, podium mics",
+      "stageRequirements": "Smooth wooden stage floor suitable for bare-foot rhythmic footwork with ghungroos",
+      "description": "Inviting a prestigious Kathak dance troupe to perform a thematic production portraying seasonal ragas. Must feature synchronized pirouettes, abhinaya, and live classical accompaniment."
+    },
+    "additional": {
+      "setupTimeline": "Rehearsal and warm-up green room from 4:00 PM",
+      "preferredContact": "Phone",
+      "contactInfo": "+91 11 2465 7788",
+      "notes": "Traditional costumes and cultural authenticity required for state cultural ministry guests."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Fintech Horizons Global Summit - Standup Comedy Night",
+    "eventType": "Corporate",
+    "startDate": "2026-12-02T19:00:00.000Z",
+    "endDate": "2026-12-02T21:00:00.000Z",
+    "location": "Bengaluru, Karnataka",
+    "venue": "The Leela Palace Grand Ballroom",
+    "category": "performer",
+    "details": {
+      "performanceType": "Speaker",
+      "genre": "Observational Comedy & Tech Satire",
+      "numberOfPerformers": 1,
+      "performanceDuration": "45 minutes",
+      "equipmentRequired": "High quality wireless handheld mic (Shure SM58 or equivalent), straight mic stand, bar stool",
+      "stageRequirements": "Spotlight focused on center stage with clear line-of-sight across round banquet tables",
+      "description": "Looking for a seasoned English/Hinglish stand-up comedian with clean, clever corporate humor addressing startup culture, engineering life, and tech industry dynamics for 400 executive attendees."
+    },
+    "additional": {
+      "setupTimeline": "Briefing with MC at 6:30 PM",
+      "preferredContact": "Email",
+      "contactInfo": "entertainment@fintechhorizons.io",
+      "notes": "No political, offensive, or controversial jokes permitted."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Jubilee Hills Electronic Sunset Live DJ Session",
+    "eventType": "Music",
+    "startDate": "2026-11-21T18:00:00.000Z",
+    "endDate": "2026-11-22T01:00:00.000Z",
+    "location": "Hyderabad, Telangana",
+    "venue": "Skyline Terrace Lounge, Road No. 36",
+    "category": "performer",
+    "details": {
+      "performanceType": "DJ",
+      "genre": "Melodic Techno & Live Percussion",
+      "numberOfPerformers": 2,
+      "performanceDuration": "3 hours",
+      "equipmentRequired": "Pioneer CDJ-3000 (x2), DJM-900NXS2 mixer, 2 high-power booth monitors, live bongo mic line",
+      "stageRequirements": "Raised DJ console booth with LED visual screen behind",
+      "description": "Searching for a progressive DJ paired with a live electronic percussionist to build the tempo from sunset chill vibes to peak-hour driving techno."
+    },
+    "additional": {
+      "setupTimeline": "Gear soundcheck at 4:30 PM",
+      "preferredContact": "WhatsApp",
+      "contactInfo": "+91 99887 66554",
+      "notes": "Artists must bring USBs formatted for Pioneer Rekordbox and laptop back-up."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Grand Sangeet Night Live Bollywood Playback Singer",
+    "eventType": "Wedding",
+    "startDate": "2026-12-18T19:30:00.000Z",
+    "endDate": "2026-12-18T23:30:00.000Z",
+    "location": "Chennai, Tamil Nadu",
+    "venue": "Mayor Ramanathan Chettiar Hall",
+    "category": "performer",
+    "details": {
+      "performanceType": "Singer",
+      "genre": "Bollywood Romantic & Dance Anthems",
+      "numberOfPerformers": 4,
+      "performanceDuration": "120 minutes",
+      "equipmentRequired": "Wireless headset mics, acoustic guitar DI box, keyboard stereo output, dedicated sound engineer",
+      "stageRequirements": "Spacious stage with stairs leading directly to family dance floor",
+      "description": "High-profile Sangeet celebration seeking an energetic playback singer backed by 3 musicians to deliver Bollywood chartbusters that get both elders and youth onto the dance floor."
+    },
+    "additional": {
+      "setupTimeline": "Sound balance at 5:00 PM before guest arrival",
+      "preferredContact": "Phone",
+      "contactInfo": "+91 98401 22334",
+      "notes": "Custom family entrance song rendition requested."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Bengaluru International Jazz & Soul Festival",
+    "eventType": "Music",
+    "startDate": "2026-11-12T14:00:00.000Z",
+    "endDate": "2026-11-14T23:00:00.000Z",
+    "location": "Bengaluru, Karnataka",
+    "venue": "Palace Grounds, Jayamahal",
+    "category": "crew",
+    "details": {
+      "roles": ["Sound Technician", "Stage Manager"],
+      "numberOfCrew": 6,
+      "experienceLevel": "3-5 Years",
+      "requiredSkills": "Digico/Yamaha digital console operation, Dante audio networking, multitrack recording, fast stage changeovers",
+      "equipmentRequired": "Personal decibel meters, XLR cable testers, talkback communication headsets",
+      "shiftDuration": "10 hours / day",
+      "description": "Looking for certified FOH and monitor sound engineers with deep acoustic sensitivity for a 3-day outdoor jazz festival featuring 14 international brass and rhythm ensembles."
+    },
+    "additional": {
+      "setupTimeline": "Briefing and rig calibration on November 11th",
+      "preferredContact": "Email",
+      "contactInfo": "crew@bangalorejazzfest.com",
+      "notes": "FOH team must have prior multi-channel live festival mixing credits."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Mumbai Automotive Expo & Vehicle Unveiling",
+    "eventType": "Corporate",
+    "startDate": "2026-12-08T08:00:00.000Z",
+    "endDate": "2026-12-09T20:00:00.000Z",
+    "location": "Mumbai, Maharashtra",
+    "venue": "Jio World Convention Centre, BKC",
+    "category": "crew",
+    "details": {
+      "roles": ["Lighting Technician", "Stage Manager"],
+      "numberOfCrew": 5,
+      "experienceLevel": "5+ Years",
+      "requiredSkills": "GrandMA3 programming, truss rigging, automated reveal silk drape triggers, DMX pixel mapping",
+      "equipmentRequired": "Safety harnesses, rigging gloves, laser distance meters",
+      "shiftDuration": "12 hours / day",
+      "description": "High-precision lighting crew needed for an electric SUV world premiere. Requires programmable beam focus, dramatic strobe sequences during reveal countdown, and glare-free broadcast lighting for international media cameras."
+    },
+    "additional": {
+      "setupTimeline": "Dry tech run starts 12 hours before press briefing",
+      "preferredContact": "WhatsApp",
+      "contactInfo": "+91 98200 44556",
+      "notes": "Strict non-disclosure agreement required before stage access."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1505236858219-8359eb29e329?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "National Badminton Championship Finals Live Telecast",
+    "eventType": "Sports",
+    "startDate": "2026-11-25T10:00:00.000Z",
+    "endDate": "2026-11-26T19:00:00.000Z",
+    "location": "Pune, Maharashtra",
+    "venue": "Shree Shiv Chhatrapati Sports Complex, Balewadi",
+    "category": "crew",
+    "details": {
+      "roles": ["Camera Operator", "Lighting Technician"],
+      "numberOfCrew": 8,
+      "experienceLevel": "3-5 Years",
+      "requiredSkills": "High-speed sports tracking (smash tracking 300km/h), steadicam operation, Sony HDC broadcast chains, tally light etiquette",
+      "equipmentRequired": "Tally intercom beltpacks, camera rain sleeves, fluid-head heavy tripods",
+      "shiftDuration": "8 hours / day",
+      "description": "Multi-camera broadcast team needed for national television live coverage of court-side badminton finals. Needs 4 baseline court operators, 1 center high jib operator, and 1 roving steadicam operator."
+    },
+    "additional": {
+      "setupTimeline": "Camera cabling and director line-checks on Nov 24 afternoon",
+      "preferredContact": "Email",
+      "contactInfo": "broadcast@sportsindiapune.com",
+      "notes": "Experience in sports live switcher timing required."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Andhra Coastal Food & Music Carnival",
+    "eventType": "Cultural",
+    "startDate": "2026-12-15T12:00:00.000Z",
+    "endDate": "2026-12-17T23:00:00.000Z",
+    "location": "Vijayawada, Andhra Pradesh",
+    "venue": "Punnami Ghat Riverfront Pavilion",
+    "category": "crew",
+    "details": {
+      "roles": ["Security", "Stage Manager"],
+      "numberOfCrew": 15,
+      "experienceLevel": "1-3 Years",
+      "requiredSkills": "Crowd control, queue management, emergency fire exit protocols, VIP barricade management, bilingual Telugu/English",
+      "equipmentRequired": "Motorola two-way walkie-talkies with acoustic tube earpieces, metal detector wands, reflective safety jackets",
+      "shiftDuration": "10 hours / day",
+      "description": "Responsible event safety and crowd flow personnel needed for a 3-day riverfront food festival expecting 15,000 footfalls. Coordinating food stall perimeters, ticket scan gates, and emergency evacuation lanes."
+    },
+    "additional": {
+      "setupTimeline": "Site safety walkthrough 24 hours prior to gate opening",
+      "preferredContact": "Phone",
+      "contactInfo": "+91 866 257 8899",
+      "notes": "Security personnel will be stationed in 2 rotating shifts."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "eventName": "Lutyens Heritage Grand Destination Reception",
+    "eventType": "Wedding",
+    "startDate": "2026-12-22T17:00:00.000Z",
+    "endDate": "2026-12-23T02:00:00.000Z",
+    "location": "Delhi",
+    "venue": "Imperial Lawns, Janpath",
+    "category": "crew",
+    "details": {
+      "roles": ["Stage Manager", "Lighting Technician", "Sound Technician"],
+      "numberOfCrew": 7,
+      "experienceLevel": "3-5 Years",
+      "requiredSkills": "Stage management, live cue tracking, walkie etiquette, rapid floral truss adjustments, battery backup power transfers",
+      "equipmentRequired": "Black production attire, wireless headsets, multi-tools, electrical insulation gloves",
+      "shiftDuration": "9 hours",
+      "description": "Seeking a dedicated backstage stage manager and technical crew to run cues for celebrity guest entries, cake cutting pyrotechnics, band changeover, and couple first dance spotlight tracking."
+    },
+    "additional": {
+      "setupTimeline": "Technical run-through with wedding choreographers at 3:00 PM",
+      "preferredContact": "WhatsApp",
+      "contactInfo": "+91 98111 23456",
+      "notes": "Discreet, courteous crew demeanour required for high-profile political and industry guests."
+    },
+    "status": "open",
+    "isDemo": true,
+    "imageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80"
+  }
+]

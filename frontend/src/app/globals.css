@@ -1,0 +1,120 @@
+@import "tailwindcss";
+
+:root {
+  --background: #08090C;
+  --foreground: #F3F4F6;
+  --card: #0F1117;
+  --card-foreground: #F3F4F6;
+  --card-border: rgba(255, 255, 255, 0.08);
+  --muted: #8E95A5;
+  --muted-bg: #151822;
+  --primary: #F59E0B;
+  --primary-hover: #D97706;
+  --primary-foreground: #08090C;
+  --secondary: #181C26;
+  --secondary-foreground: #FCD34D;
+  --input-bg: #12151E;
+  --input-border: rgba(255, 255, 255, 0.12);
+  --accent: #1C2230;
+  --accent-foreground: #F59E0B;
+  --success: #10B981;
+  --radius: 0.85rem;
+  color-scheme: dark;
+}
+
+.dark {
+  --background: #08090C;
+  --foreground: #F3F4F6;
+  --card: #0F1117;
+  --card-foreground: #F3F4F6;
+  --card-border: rgba(255, 255, 255, 0.08);
+  --muted: #8E95A5;
+  --muted-bg: #151822;
+  --primary: #F59E0B;
+  --primary-hover: #D97706;
+  --primary-foreground: #08090C;
+  --secondary: #181C26;
+  --secondary-foreground: #FCD34D;
+  --input-bg: #12151E;
+  --input-border: rgba(255, 255, 255, 0.12);
+  --accent: #1C2230;
+  --accent-foreground: #F59E0B;
+  --success: #10B981;
+}
+
+body {
+  background-color: #08090C;
+  color: #F3F4F6;
+  font-feature-settings: "rlig" 1, "calt" 1;
+  background-image: 
+    radial-gradient(rgba(245, 158, 11, 0.03) 1px, transparent 1px),
+    radial-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+  background-size: 40px 40px, 20px 20px;
+  background-position: 0 0, 10px 10px;
+}
+
+/* Ensure inputs and selects render dark UI controls in all browsers */
+input[type="date"],
+input[type="time"],
+select {
+  color-scheme: dark;
+}
+
+select option {
+  background-color: #0F1117;
+  color: #F3F4F6;
+}
+
+/* Glassmorphism utility with high-craft blur */
+.glass-panel {
+  background: rgba(15, 17, 23, 0.82);
+  backdrop-filter: blur(14px);
+  border: 1px solid var(--card-border);
+}
+
+/* Tactile glow effects */
+.glow-amber {
+  box-shadow: 0 0 35px -8px rgba(245, 158, 11, 0.3);
+}
+
+.glow-amber-sm {
+  box-shadow: 0 0 18px -4px rgba(245, 158, 11, 0.22);
+}
+
+.glow-coral-sm {
+  box-shadow: 0 0 18px -4px rgba(255, 56, 92, 0.22);
+}
+
+.glow-mint-sm {
+  box-shadow: 0 0 18px -4px rgba(16, 185, 129, 0.22);
+}
+
+/* Stage Audio Meter Equalizer Animation */
+@keyframes eqBounce {
+  0%, 100% { height: 4px; }
+  50% { height: 16px; }
+}
+
+.eq-bar-1 { animation: eqBounce 0.8s ease-in-out infinite; }
+.eq-bar-2 { animation: eqBounce 1.1s ease-in-out 0.2s infinite; }
+.eq-bar-3 { animation: eqBounce 0.7s ease-in-out 0.4s infinite; }
+.eq-bar-4 { animation: eqBounce 0.9s ease-in-out 0.1s infinite; }
+
+/* Subtle custom scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #08090C;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(245, 158, 11, 0.25);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(245, 158, 11, 0.45);
+}
