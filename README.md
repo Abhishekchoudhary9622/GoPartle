@@ -14,6 +14,12 @@
 
 Engineered with a human-crafted **Obsidian Stage & Solar Amber** aesthetic, GoPratle rejects generic AI boilerplate in favor of a tactile live-concert console feel: animated soundboard audio visualizers, monospace production telemetry, call-sheet ticket stubs, and an interactive 4-step wizard backed by a validated Node.js/Express REST API and MongoDB Atlas.
 
+> 🚀 **Live Production Deployments**:
+> - 🌐 **Live Web Application (Vercel)**: [https://go-partle-jet.vercel.app](https://go-partle-jet.vercel.app)
+> - ⚡ **Live Backend REST API (Render)**: [https://gopartle-zqvy.onrender.com](https://gopartle-zqvy.onrender.com)
+> - 🩺 **Backend Health & MongoDB Atlas**: [https://gopartle-zqvy.onrender.com/api/health](https://gopartle-zqvy.onrender.com/api/health)
+> - 📦 **Live Event Requirements Feed**: [https://gopartle-zqvy.onrender.com/api/events](https://gopartle-zqvy.onrender.com/api/events)
+
 ---
 
 ## 📑 Table of Contents
